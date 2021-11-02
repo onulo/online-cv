@@ -13,6 +13,12 @@
     </li>
     {% endif %}
 
+    {% if sidebar.birth %}
+    <li class="birth"><i class="fas fa-user"></i>
+      <span>{{ sidebar.phone }}</span>
+    </li>
+    {% endif %}
+
     {% if sidebar.telegram %}
     <li class="telegram"><i class="fab fa-telegram"></i>
       <a href="https://t.me/{{ sidebar.telegram }}" target="_blank">{{ sidebar.telegram }}</a>

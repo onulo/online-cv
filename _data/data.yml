@@ -11,10 +11,12 @@ sidebar:
     tagline: Full Stack Developer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
+
     # Sidebar links
     email: ondrej.barci@gmail.com
     phone: +421 917 888 462
 #    website: blog.webjeda.com #do not add http://
+    birth: 20. 9. 1983
     linkedin: ondrej-barci
     github: onulo
     telegram: # add your nickname without '@' sign
@@ -27,23 +29,20 @@ sidebar:
     pdf: http://www.africau.edu/images/default/sample.pdf
 
     languages:
-      - idiom: English
+      - idiom: Slovak
         level: Native
 
-      - idiom: French
-        level: Professional
-
-      - idiom: Spanish
+      - idiom: English
         level: Professional
 
     interests:
-      - item: Climbing
+      - item: Hiking
         link:
 
-      - item: Snowboarding
+      - item: Woodworking
         link:
 
-      - item: Cooking
+      - item: Technologies
         link:
 
 career-profile:
